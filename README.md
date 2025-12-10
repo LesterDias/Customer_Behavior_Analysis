@@ -71,7 +71,7 @@ This project follows a structured analytics lifecycle to ensure repeatable, scal
 
 ### **5. SQL-Driven Analytics**
 
-Executed structured business queries on PostgreSQL/MySQL/SQL Server to derive:
+Executed structured business queries on PostgreSQL Server to derive:
 
 * Revenue split by multiple demographic slices
 * Discount-based behavioral performance
