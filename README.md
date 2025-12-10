@@ -22,13 +22,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 **Programming & Analytics:**
 
-* Python (Pandas, NumPy, Matplotlib/Seaborn)
+* Python 
 * Jupyter Notebook
 
 **Database & Querying:**
 
-* PostgreSQL / MySQL / SQL Server
-* SQL (CTE, window functions, aggregations)
+* PostgreSQL 
+* SQL 
 
 **Visualization & Reporting:**
 
